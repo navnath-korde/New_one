@@ -1,0 +1,14 @@
+2024-08-12 16:19:39 INFO  c.d.api.controller.AuthController - Trying to login = admin
+2024-08-12 16:19:39 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-08-12 16:19:39 INFO  c.d.api.controller.AuthController - Logged In = admin
+2024-08-12 16:25:18 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-08-12 16:25:22 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-08-12 16:27:03 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =kiran
+2024-08-12 16:53:44 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =kiran
+2024-08-12 16:56:23 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =kiran
+2024-08-12 17:07:42 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-08-12 17:07:49 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-08-12 17:08:04 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-08-12 17:08:05 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-08-12 17:08:22 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-08-12 17:08:33 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin

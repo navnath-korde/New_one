@@ -1,0 +1,10 @@
+2024-10-07 14:50:40 INFO  c.d.api.controller.AuthController - Trying to login = ram
+2024-10-07 14:50:40 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =ram
+2024-10-07 14:50:56 INFO  c.d.api.controller.AuthController - Trying to login = admin
+2024-10-07 14:50:56 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-10-07 14:50:56 INFO  c.d.api.controller.AuthController - Logged In = admin
+2024-10-07 14:51:02 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-10-07 14:51:09 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-10-07 14:52:11 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-10-07 14:52:15 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin
+2024-10-07 14:52:15 INFO  c.d.api.daoimpl.SystemUserDaoImpl - Loaded User =admin

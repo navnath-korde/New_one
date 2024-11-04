@@ -1,0 +1,2 @@
+2024-09-14 13:35:05 ERROR com.dsa360.api.daoimpl.DSADaoImpl - Duplicate entry error occurred during DSA registration - check unique fields
+2024-09-14 13:38:38 INFO  com.dsa360.api.daoimpl.DSADaoImpl - DSA registration successful for: 20240914133838705 XYZ
